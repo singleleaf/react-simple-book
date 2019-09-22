@@ -9,3 +9,5 @@ cd react-simple-book (进入项目)
 npm install (安装依赖包)
 
 npm start (启动服务)
+# 项目截图
+![image](https://github.com/singleleaf/react-simple-book/blob/master/project-screen-shot.gif)
